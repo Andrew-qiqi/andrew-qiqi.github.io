@@ -1,5 +1,5 @@
 ---
-title: myfirstblog嘻嘻！！！！
+title: myfirstblog哈哈哈
 date: 2026-01-29 23:35:13
 tags:
 ---
