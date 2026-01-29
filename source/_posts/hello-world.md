@@ -74,6 +74,7 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 - **图片处理**：建议使用图床，保持仓库体积轻量。
 - **环境一致**：Win/Mac 建议安装相同版本的 Node.js。
 
-## 🔍 解释
+## 🔍 更多注意
 1. 修改博客后，用hexo clean ; hexo g ; hexo d后，github上的main分支中的网页会更新，但是source还没更新
 2. 然后在vscode上用commit和Sync Changes后，source才会更新
+3. ‼️mac上deploy的时候，若挂梯子，很可能会报错，最好关了梯子再deploy！
